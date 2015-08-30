@@ -9,6 +9,7 @@ import android.content.SharedPreferences;
  */
 public class Config {
 
+    //asdf
     public static final String APP_ID="app.locker.android.locker";
     public static final String CHARSET="utf-8";
     //接口通信地址
