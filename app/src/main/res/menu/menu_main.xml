@@ -1,0 +1,17 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AtyOperation">
+
+    <item android:id="@+id/itemSettings"
+        android:title="@string/item_settings"
+        android:orderInCategory="100"
+        android:src="@android:drawable/ic_menu_revert"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_set_as">
+        <menu>
+        </menu>
+    </item>
+    <item android:id="@+id/itemHelp" android:title="@string/item_help"
+        android:orderInCategory="100" android:showAsAction="never"/>
+</menu>

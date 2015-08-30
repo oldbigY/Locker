@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Locker</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="openlock">开锁</string>
+    <string name="warm">危险</string>
+
+
+    <string name="item_settings">设置</string>
+    <string name="item_help">帮助</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="connect">链接</string>
+    <string name="attention">注意</string>
+    <string name="register">注册</string>
+    <string name="changelockerpassword">修改锁密码</string>
+    <string name="changeuserpassword">修改用户密码</string>
+
+    <string name="connecting">链接中，请稍后...</string>
+    <string name="success_login">登录成功</string>
+    <string name="fail_login">登录失败，可能密码错误，请重试</string>
+    <string name="user_name_can_not_be_empty">用户名不能为空</string>
+    <string name="password_can_not_be_empty">密码不能为空</string>
+    <string name="complete_the_information">请将信息填写完整</string>
+    <string name="password_not_the_same">两次输入的密码不一致</string>
+    <string name="registering">注册中，请稍后....</string>
+    <string name="success_register">注册成功</string>
+    <string name="fail_register_the_user_name_has_be_used">注册失败，该用户名已被使用，请更换之后再注册</string>
+    <string name="fail_register_the_lock_id_is_wrong">注册失败，锁ID不存在（错误）</string>
+    <string name="fail_register_has_not_the_master">注册失败，主人不存在</string>
+    <string name="fail_register">注册失败，请稍后重试</string>
+    <string name="user_rank_is_master">你选择的身份是“主人”，请你在之下的文本框中填入锁ID。</string>
+    <string name="user_rank_is_family">你选择的是“家人”，请在之下的对话框中填入主人的用户名。</string>
+    <string name="quit_desc">你真的要退出“洛克”吗？</string>
+    <string name="password_is_wrong">密码错误</string>
+    <string name="success_change_password">成功修改密码</string>
+    <string name="fail_change_password">修改密码失败，请重试</string>
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+</resources>
